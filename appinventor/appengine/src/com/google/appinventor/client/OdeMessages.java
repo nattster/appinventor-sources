@@ -6431,4 +6431,15 @@ public interface OdeMessages extends Messages {
   @Description("")
   String reloadWindow();
 
+  @DefaultMessage("ThaiText")
+  @Description("")
+  String thaiTextComponentPallette();
+
+  @DefaultMessage("ThaiText")
+  @Description("")
+  String ThaiTextHelpStringComponentPallette();
+
+  @DefaultMessage("SplitWord")
+  @Description("")
+  String SplitWordMethods();
 }
